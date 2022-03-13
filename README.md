@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kotlin Coroutines!**
 
-- 👨‍💻 All of my projects are available here! [https://github.com/james-millner](https://github.com/james-millner)
+- 👨‍💻 All of my projects are available on my [website](https://jamesmillner.dev) and [here!](https://github.com/james-millner)
 
 - 💬 Ask me about **Kotlin, Java, Spring Boot, Kubernetes, Cloud Computing**
 
