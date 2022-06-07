@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Sky Betting & Gaming](https://m.skybet.com/)
 
-- 🌱 I’m currently learning **Kotlin Coroutines!**
+- 🌱 I’m currently learning **Kotlin Coroutines & Micronaut Cloud Functions**
 
 - 👨‍💻 All of my projects are available on my [website](https://jamesmillner.dev) and [here!](https://github.com/james-millner)
 
