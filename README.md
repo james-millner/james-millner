@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [10x Banking](https://www.10xbanking.com/)
 
-- 🌱 I’m currently checking out a **Personal Project with Terraform, AWS Lambda, Kafka, NATS and Spring Boot**
+- 🌱 I’m currently setting up a new developement environment and going to start some tinkering soon!
 
 - 👨‍💻 All of my projects are available on my [website](https://jamesmillner.dev) and [here!](https://github.com/james-millner)
 
