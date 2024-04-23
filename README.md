@@ -12,5 +12,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_jamesmillner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_jamesmillner" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/james-millner-26a7974a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/%F0%9F%9A%B4%E2%80%8D%E2%99%82%EF%B8%8Fjames-millner-26a7974a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/james-millner-26a7974a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/🚴‍♂%EF%B8%8Fjames-millner-26a7974a" height="30" width="40" /></a>
 </p>
