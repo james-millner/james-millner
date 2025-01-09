@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm James Millner</h1>
 <h3 align="center">A motivated Software Engineer based in Huddersfield, United Kingdom</h3>
 
-- 🔭 I’m currently working at [10x Banking](https://www.10xbanking.com/)
+- 🔭 I’m currently between roles! More on that soon!
 
 - 🌱 I’m currently tinkering with some fitness based data. More coming soon!
 
