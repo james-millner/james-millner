@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm James Millner</h1>
 <h3 align="center">A motivated Software Engineer based in Huddersfield, United Kingdom</h3>
 
-- 🔭 I’m currently working as a Senior Software Engineer @ [Lendable](https://www.lendable.co.uk/)
+- 🔭 I’m currently working as a Associate Engineering Manager @ [Lendable](https://www.lendable.co.uk/)
 
 - 🌱 I’m currently tinkering with some fitness based data. More coming soon!
 
