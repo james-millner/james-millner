@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as an Engineering Manager @ [Lendable](https://www.lendable.co.uk/)
 
-- 🌱 I’m currently tinkering with some fitness based data. More coming soon!
+- 🌱 I’m currently tinkering with some a side project around Audio & Wavesforms!
 
 - 👨‍💻 All of my projects are available on my [website](https://jamesmillner.dev) and [here!](https://github.com/james-millner)
 
