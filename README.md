@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James Millner</h1>
-<h3 align="center">A motivated Software Engineer based in Huddersfield, United Kingdom</h3>
+<h3 align="center">A Software Engineer based in Huddersfield, United Kingdom</h3>
 
 - 🔭 I’m currently working as an Engineering Manager @ [Lendable](https://www.lendable.co.uk/)
 
